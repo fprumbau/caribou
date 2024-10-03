@@ -1,4 +1,4 @@
 camera="usb"
-camera_usb_options="-r 1600x1200 -f 10 -d /dev/video0"
+camera_usb_options="-r 1920x1080 -f 10 -d /dev/video0"
 #additional_brokenfps_usb_devices=("046d:0990")
 
